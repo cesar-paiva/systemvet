@@ -4,7 +4,7 @@ Veterinary Clinic Management System
 # System Structure
 The system consists of modules, below are the modules that compose it:
 
-- Professional Module: Register and change the information of professionals;
+- Professional Module: Registration and change the information of professionals;
 - Customers Module: Registration and change of customer information;
 - Animal Module: Registration and alteration of the information of the animals;
 - Reports: Reports with information for analysis and management;
