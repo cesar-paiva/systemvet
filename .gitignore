@@ -1,0 +1,6 @@
+SystemVet/bin
+SystemVet/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
